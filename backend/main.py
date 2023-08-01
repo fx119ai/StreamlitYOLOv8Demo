@@ -3,7 +3,7 @@ from fastapi import FastAPI, UploadFile, File
 from PIL import Image
 import io
 
-from .schemas import PredictionResponse
+from schemas import PredictionResponse
 
 
 # Instantiate FastAPI application
