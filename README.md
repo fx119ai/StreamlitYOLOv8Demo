@@ -7,7 +7,8 @@
 
 ## Solution
 I decided to go with using fastapi as my backend framework and streamlit as a quick prototyping frontend. For easy usability 
-I used docker-compose having one docker container that runs the backend and one that runs the frontend. 
+I used docker-compose having one docker container that runs the backend and one that runs the frontend. The model from the 
+ultralytics family I chose is the pose-estimation model.
 
 ## How to
 
