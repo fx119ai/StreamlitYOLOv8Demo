@@ -1,4 +1,4 @@
-# Egonym Coding Challenge
+# Startup Coding Challenge
 
 ## Assignment
 - Pick any of the pretrained YOLOv8 models from [1] and set up a backend infrastructure that serves the prediction functionality through a REST API.
